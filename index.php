@@ -17,7 +17,7 @@
 
 <body>
       <div class="main">
-            <h1>LOGIN</h1>
+            <h1>REGISTER</h1>
             <h3>Enter your Register credentials</h3>
             <form action="" method="POST">
                   <label for="first">
